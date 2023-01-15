@@ -8,4 +8,8 @@ HTML,CSS kullanıldı.
 
 <h2> Ekran Görüntüsü</h2>
 
-![](artofwar.gif)
+![](gif1.gif)
+
+![](gif2.gif)
+
+![](gif3.gif)
